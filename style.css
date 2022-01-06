@@ -56,8 +56,8 @@ h1 {
 }
 
 .img-size {
-    width: 60%;
-    margin-left: 35%;
+    width: 90%;
+    margin-left: 5%;
 }
 
 .mission-img-size{
@@ -78,14 +78,17 @@ h1 {
 
 .b-color-1{
     background-color:#eccb68d0;
+    box-shadow: 10px 15px 20px gray;
 }
 
 .b-color-2{
     background-color:#ff6b81d0;
+    box-shadow: 10px 15px 20px gray;
 }
 
 .b-color-3{
     background-color:#70a2ffce;
+    box-shadow: 10px 15px 20px gray;
     margin-right: 5%;
 }
 
@@ -116,6 +119,7 @@ h1 {
     border-radius:10px;
     color: white;
     text-align: center;
+    box-shadow: 10px 15px 20px gray;
     
 }
 
@@ -151,11 +155,12 @@ footer{
 }
 
 h2{
-    font-family: 'Pacifico', cursive;
+    
 }
 
 #blueviolet-color{
     color: blueviolet;
+    font-family: 'Pacifico', cursive;
 }
 
 small{
