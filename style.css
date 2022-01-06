@@ -60,6 +60,10 @@ h1 {
     margin-left: 5%;
 }
 
+.mission-area{
+    margin-bottom: 100px;
+}
+
 .mission-img-size{
     width: 70%;
 }
@@ -88,7 +92,6 @@ h1 {
 
 .b-color-3{
     background-color:#70a2ffce;
-    box-shadow: 10px 15px 20px gray;
     margin-right: 5%;
 }
 
@@ -152,10 +155,6 @@ footer{
     color: white;
     padding-top: 50px;
     padding-bottom: 50px;
-}
-
-h2{
-    
 }
 
 #blueviolet-color{
